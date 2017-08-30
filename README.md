@@ -1,0 +1,2 @@
+# fragmentlifecircleDemo
+用于展示FragmentTabHost与ViewPager管理Fragment的生命周期变化
